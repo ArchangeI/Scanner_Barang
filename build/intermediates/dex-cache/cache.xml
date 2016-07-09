@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_3b5f2b2356e8a07e8b65abea1f659d8bf251bc1a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="927fbb38749eab3dc2a96ddde6d8f81e5351203c">
+        <dex dex="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a33a51df6c6046e4ef753918fc382f42741afc0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_472f7697a07bf70e5de6362200f03aa980c8fb85/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_a7bb450fdc8dd7ec75f29e628f2706c6bd5ca998/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zxing/1.8.4/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.dm7.barcodescanner-zxing-1.8.4_214e0a2bc6c17de122650e66225f7b43495949b2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.4/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.dm7.barcodescanner-core-1.8.4_880a0a8ffe6f8f3edfc76ccf6905a419dc49f7d3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_81a71b07560e59762a3e7124a7e7c2751aa75571/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_2ec705a5cbdf0ecb5d59e488a481668f40623bde/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b4e80c1ff1a78c3e54e620d1de31ece32e6b64e1">
+        <dex dex="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e4617ffdb84df216c026d10210530667ac287d5f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_1c744d0c7f573cc104da7cbc13afa4ae9acfbaaf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_31be336d648456da399cb2f7c45df17f6a10594d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_72b4d05142b545121c77c7119dcc1a2d748455da/classes.dex" />
+    </item>
+
+</items>
