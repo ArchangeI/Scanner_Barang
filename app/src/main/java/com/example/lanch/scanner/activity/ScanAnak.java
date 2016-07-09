@@ -217,16 +217,18 @@ public class ScanAnak extends BaseScannerActivity implements MessageDialogFragme
 
                         if(jsonRow.has("waktu_masuk"))
                         {
-                            loadPhoto(jsonRow.getString("image"), "Nama : " +
-                                    jsonRow.getString("Name") + "\n" + "Jam Masuk : " +
-                                    jsonRow.getString("waktu_masuk"));
+                        //     loadPhoto(jsonRow.getString("image"), "Nama : " +
+                        //             jsonRow.getString("Name") + "\n" + "Jam Masuk : " +
+                        //             jsonRow.getString("waktu_masuk"));
+                                Toast.makeText(getApplicationContext(), "data sudah di kirim", Toast.LENGTH_SHORT).show();
 
                         }
                         else if(jsonRow.has("waktu_keluar"))
                         {
-                            loadPhoto(jsonRow.getString("image"), "Nama : " +
-                                    jsonRow.getString("Name") + "\n" + "Jam Keluar : " +
-                                    jsonRow.getString("waktu_keluar"));
+                        //     loadPhoto(jsonRow.getString("image"), "Nama : " +
+                        //             jsonRow.getString("Name") + "\n" + "Jam Keluar : " +
+                        //             jsonRow.getString("waktu_keluar"));
+                                Toast.makeText(getApplicationContext(), "data sudah di kirim", Toast.LENGTH_SHORT).show();
                         }
 
 
@@ -239,7 +241,7 @@ public class ScanAnak extends BaseScannerActivity implements MessageDialogFragme
                 catch(JSONException e)
                 {
                     e.printStackTrace();
-                    Toast.makeText(getApplicationContext(), "Anak Sudah 3 kali discan", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), "Sudah 3 kali discan atau error", Toast.LENGTH_SHORT).show();
                     mScannerView.resumeCameraPreview(ScanAnak.this);
                 }
             }
