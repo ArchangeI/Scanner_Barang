@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "outputFile": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 91
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 145
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 187
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 227
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 269
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 316
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 364
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 411
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 460
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/src/main/res/values-v21/colors.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 529
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -202,7 +202,7 @@
                     "endOffset": 1382
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/src/main/res/values-v21/styles.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/src/main/res/values-v21/styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 1473
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 1576
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 1679
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 1784
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -298,7 +298,7 @@
                     "endOffset": 1891
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -317,7 +317,7 @@
                     "endOffset": 2000
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -336,7 +336,7 @@
                     "endOffset": 2109
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -355,7 +355,7 @@
                     "endOffset": 2218
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -374,7 +374,7 @@
                     "endOffset": 2327
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -393,7 +393,7 @@
                     "endOffset": 2436
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -412,7 +412,7 @@
                     "endOffset": 2543
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -431,7 +431,7 @@
                     "endOffset": 2646
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -450,7 +450,7 @@
                     "endOffset": 2765
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -470,7 +470,7 @@
                     "endOffset": 2920
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -491,7 +491,7 @@
                     "endOffset": 3075
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -511,7 +511,7 @@
                     "endOffset": 3180
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -530,7 +530,7 @@
                     "endOffset": 3301
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -549,7 +549,7 @@
                     "endOffset": 3402
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -569,7 +569,7 @@
                     "endOffset": 3549
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -590,7 +590,7 @@
                     "endOffset": 3690
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -610,7 +610,7 @@
                     "endOffset": 3793
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -629,7 +629,7 @@
                     "endOffset": 3912
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -648,7 +648,7 @@
                     "endOffset": 4019
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -667,7 +667,7 @@
                     "endOffset": 4122
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -687,7 +687,7 @@
                     "endOffset": 4269
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -708,7 +708,7 @@
                     "endOffset": 4424
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -729,7 +729,7 @@
                     "endOffset": 4595
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -750,7 +750,7 @@
                     "endOffset": 4744
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -771,7 +771,7 @@
                     "endOffset": 4909
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -792,7 +792,7 @@
                     "endOffset": 5066
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -813,7 +813,7 @@
                     "endOffset": 5217
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -833,7 +833,7 @@
                     "endOffset": 5336
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -853,7 +853,7 @@
                     "endOffset": 5485
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -874,7 +874,7 @@
                     "endOffset": 5634
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -894,7 +894,7 @@
                     "endOffset": 5746
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -913,7 +913,7 @@
                     "endOffset": 5893
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 4,
@@ -933,7 +933,7 @@
                     "endOffset": 6046
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 4,
@@ -954,7 +954,7 @@
                     "endOffset": 6193
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
@@ -974,7 +974,7 @@
                     "endOffset": 6268
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
@@ -993,7 +993,7 @@
                     "endOffset": 6357
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
@@ -1012,7 +1012,7 @@
                     "endOffset": 6444
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,
@@ -1031,7 +1031,7 @@
                     "endOffset": 6545
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 4,
@@ -1051,7 +1051,7 @@
                     "endOffset": 9613
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 81,
                         "startColumn": 4,
@@ -1072,7 +1072,7 @@
                     "endOffset": 9799
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 125,
                         "startColumn": 4,
@@ -1093,7 +1093,7 @@
                     "endOffset": 12879
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 128,
                         "startColumn": 4,
@@ -1114,7 +1114,7 @@
                     "endOffset": 13077
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 172,
                         "startColumn": 4,
@@ -1135,7 +1135,7 @@
                     "endOffset": 13200
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
@@ -1156,7 +1156,7 @@
                     "endOffset": 13323
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1177,7 +1177,7 @@
                     "endOffset": 13436
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -1198,7 +1198,7 @@
                     "endOffset": 13619
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1219,7 +1219,7 @@
                     "endOffset": 13750
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 186,
                         "startColumn": 4,
@@ -1240,7 +1240,7 @@
                     "endOffset": 13951
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
@@ -1260,7 +1260,7 @@
                     "endOffset": 14040
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
@@ -1279,7 +1279,7 @@
                     "endOffset": 14151
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1298,7 +1298,7 @@
                     "endOffset": 14278
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 193,
                         "startColumn": 4,
@@ -1317,7 +1317,7 @@
                     "endOffset": 14379
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1336,7 +1336,7 @@
                     "endOffset": 14474
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 195,
                         "startColumn": 4,
@@ -1355,7 +1355,7 @@
                     "endOffset": 14597
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1374,7 +1374,7 @@
                     "endOffset": 14726
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 197,
                         "startColumn": 4,
@@ -1393,7 +1393,7 @@
                     "endOffset": 14843
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 198,
                         "startColumn": 4,
@@ -1413,7 +1413,7 @@
                     "endOffset": 15020
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 199,
                         "startColumn": 4,
@@ -1433,7 +1433,7 @@
                     "endOffset": 15119
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1453,7 +1453,7 @@
                     "endOffset": 15254
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -1474,7 +1474,7 @@
                     "endOffset": 15397
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1495,7 +1495,7 @@
                     "endOffset": 15532
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1516,7 +1516,7 @@
                     "endOffset": 15651
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 209,
                         "startColumn": 4,
@@ -1537,7 +1537,7 @@
                     "endOffset": 15852
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -1558,7 +1558,7 @@
                     "endOffset": 15971
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -1578,7 +1578,7 @@
                     "endOffset": 16064
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -1597,7 +1597,7 @@
                     "endOffset": 16175
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -1616,7 +1616,7 @@
                     "endOffset": 16231
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -1636,7 +1636,7 @@
                     "endOffset": 16338
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 220,
                         "startColumn": 4,
@@ -1657,7 +1657,7 @@
                     "endOffset": 16533
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 222,
                         "startColumn": 4,
@@ -1678,7 +1678,7 @@
                     "endOffset": 16644
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 226,
                         "startColumn": 4,
@@ -1699,7 +1699,7 @@
                     "endOffset": 16777
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 228,
                         "startColumn": 4,
@@ -1719,7 +1719,7 @@
                     "endOffset": 16872
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 230,
                         "startColumn": 4,
@@ -1738,7 +1738,7 @@
                     "endOffset": 16963
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
@@ -1757,7 +1757,7 @@
                     "endOffset": 17054
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 232,
                         "startColumn": 4,
@@ -1776,7 +1776,7 @@
                     "endOffset": 17171
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 233,
                         "startColumn": 4,
@@ -1796,7 +1796,7 @@
                     "endOffset": 17310
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 234,
                         "startColumn": 4,
@@ -1817,7 +1817,7 @@
                     "endOffset": 17663
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 238,
                         "startColumn": 4,
@@ -1838,7 +1838,7 @@
                     "endOffset": 18028
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 245,
                         "startColumn": 4,
@@ -1859,7 +1859,7 @@
                     "endOffset": 18708
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -1879,7 +1879,7 @@
                     "endOffset": 18765
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 262,
                         "startColumn": 4,
@@ -1898,7 +1898,7 @@
                     "endOffset": 18823
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 263,
                         "startColumn": 4,

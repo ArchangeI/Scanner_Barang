@@ -3,6 +3,7 @@ package com.example.lanch.scanner.activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
+import android.os.CountDownTimer;
 import android.support.v4.app.DialogFragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.view.MenuItemCompat;
@@ -45,6 +46,7 @@ public class ScanAnak extends BaseScannerActivity implements MessageDialogFragme
         ZXingScannerView.ResultHandler, FormatSelectorDialogFragment.FormatSelectorDialogListener,
         CameraSelectorDialogFragment.CameraSelectorDialogListener
 {
+    public int i;
     private static final String FLASH_STATE = "FLASH_STATE";
     private static final String AUTO_FOCUS_STATE = "AUTO_FOCUS_STATE";
     private static final String SELECTED_FORMATS = "SELECTED_FORMATS";
@@ -188,8 +190,21 @@ public class ScanAnak extends BaseScannerActivity implements MessageDialogFragme
     {
         Log.d("Result", rawResult.getText());
         //kids_id = rawResult.getText().trim();
+        String kids_id1 = rawResult.getText().trim();
         hasilscan.add(rawResult.getText().trim());
-
+        final Toast toast = Toast.makeText(getApplicationContext(), "Berhasil Scan", Toast.LENGTH_SHORT);
+        toast.show();
+        new CountDownTimer(2000, 1000)
+        {
+            public void onTick(long millisUntilFinished) {toast.show();}
+            public void onFinish() {toast.cancel();}
+        }.start();
+        new CountDownTimer(3000, 1000)
+        {
+            public void onTick(long millisUntilFinished) {}
+            public void onFinish() {}
+        }.start();
+        mScannerView.resumeCameraPreview(ScanAnak.this);
        // fetch();
     }
 
@@ -217,18 +232,16 @@ public class ScanAnak extends BaseScannerActivity implements MessageDialogFragme
 
                         if(jsonRow.has("waktu_masuk"))
                         {
-                        //     loadPhoto(jsonRow.getString("image"), "Nama : " +
-                        //             jsonRow.getString("Name") + "\n" + "Jam Masuk : " +
-                        //             jsonRow.getString("waktu_masuk"));
-                                Toast.makeText(getApplicationContext(), "data sudah di kirim", Toast.LENGTH_SHORT).show();
+                            loadPhoto(jsonRow.getString("image"), "Nama : " +
+                                    jsonRow.getString("Name") + "\n" + "Jam Masuk : " +
+                                    jsonRow.getString("waktu_masuk"));
 
                         }
                         else if(jsonRow.has("waktu_keluar"))
                         {
-                        //     loadPhoto(jsonRow.getString("image"), "Nama : " +
-                        //             jsonRow.getString("Name") + "\n" + "Jam Keluar : " +
-                        //             jsonRow.getString("waktu_keluar"));
-                                Toast.makeText(getApplicationContext(), "data sudah di kirim", Toast.LENGTH_SHORT).show();
+                            loadPhoto(jsonRow.getString("image"), "Nama : " +
+                                    jsonRow.getString("Name") + "\n" + "Jam Keluar : " +
+                                    jsonRow.getString("waktu_keluar"));
                         }
 
 
@@ -241,7 +254,7 @@ public class ScanAnak extends BaseScannerActivity implements MessageDialogFragme
                 catch(JSONException e)
                 {
                     e.printStackTrace();
-                    Toast.makeText(getApplicationContext(), "Sudah 3 kali discan atau error", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), "Anak Sudah 3 kali discan", Toast.LENGTH_SHORT).show();
                     mScannerView.resumeCameraPreview(ScanAnak.this);
                 }
             }
@@ -251,6 +264,7 @@ public class ScanAnak extends BaseScannerActivity implements MessageDialogFragme
             public void onErrorResponse(VolleyError error)
             {
                 Toast.makeText(getApplicationContext(),"Error Happened", Toast.LENGTH_SHORT).show();
+                mScannerView.resumeCameraPreview(ScanAnak.this);
             }
         })
         {

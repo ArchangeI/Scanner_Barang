@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
+        "outputFile": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.4/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.4/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.4/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.4/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -50,7 +50,7 @@
                     "endOffset": 441
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-hdpi/values-hdpi.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-hdpi/values-hdpi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

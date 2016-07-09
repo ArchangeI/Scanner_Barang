@@ -1,0 +1,1 @@
+CHANGED,/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/lanch/scanner/activity/ScanAnak.class

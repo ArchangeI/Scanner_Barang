@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/res/merged/debug/values-ldltr-v21/values-ldltr-v21.xml",
+        "outputFile": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/res/merged/debug/values-ldltr-v21/values-ldltr-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "/Users/mac/Downloads/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "file": "/home/vanhauten/AndroidStudioProjects/Scanner_Barang/Scanner_Barang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
