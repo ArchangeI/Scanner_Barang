@@ -25,7 +25,7 @@
 
         <Button android:layout_height="wrap_content"
             android:layout_width="wrap_content"
-            android:text="Scan Anak"
+            android:text="Scan"
             android:layout_marginBottom="30dp"
             android:onClick="launchScanAnak"/>
 
